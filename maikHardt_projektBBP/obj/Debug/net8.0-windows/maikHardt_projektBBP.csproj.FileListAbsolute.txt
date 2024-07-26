@@ -1,0 +1,118 @@
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+C:\Users\Ma.Hardt\Desktop\C#  Programs\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Properties.Resources.resources
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Properties.Resources.resources
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektBBP\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Properties.Resources.resources
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+C:\Users\Ma.Hardt\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Properties.Resources.resources
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+C:\Users\MaikH\OneDrive\Desktop\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Properties.Resources.resources
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+D:\maikHardt_projektDesignPatternsversuch\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.exe
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.deps.json
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.runtimeconfig.json
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\bin\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Form1.resources
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.Properties.Resources.resources
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.GenerateResource.cache
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfoInputs.cache
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.AssemblyInfo.cs
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.csproj.CoreCompileInputs.cache
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.dll
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\refint\maikHardt_projektBBP.dll
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.pdb
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\maikHardt_projektBBP.genruntimeconfig.cache
+C:\Users\MaikH\Source\Repos\Paintprogram\maikHardt_projektBBP\obj\Debug\net8.0-windows\ref\maikHardt_projektBBP.dll
