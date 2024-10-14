@@ -1,0 +1,1 @@
+Mein zweites "Großprojekt" ist eine ähnliche Anwendung wie Paint
